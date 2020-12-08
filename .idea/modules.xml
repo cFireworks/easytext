@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/easytext.iml" filepath="$PROJECT_DIR$/.idea/easytext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.algorithm.api/easytext.algorithm.api.iml" filepath="$PROJECT_DIR$/src/easytext.algorithm.api/easytext.algorithm.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.algorithm.coleman/easytext.algorithm.coleman.iml" filepath="$PROJECT_DIR$/src/easytext.algorithm.coleman/easytext.algorithm.coleman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.algorithm.kincaid/easytext.algorithm.kincaid.iml" filepath="$PROJECT_DIR$/src/easytext.algorithm.kincaid/easytext.algorithm.kincaid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.algorithm.naivesyllablecounter/easytext.algorithm.naivesyllablecounter.iml" filepath="$PROJECT_DIR$/src/easytext.algorithm.naivesyllablecounter/easytext.algorithm.naivesyllablecounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.algorithm.nextgensyllablecounter/easytext.algorithm.nextgensyllablecounter.iml" filepath="$PROJECT_DIR$/src/easytext.algorithm.nextgensyllablecounter/easytext.algorithm.nextgensyllablecounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.cli/easytext.cli.iml" filepath="$PROJECT_DIR$/src/easytext.cli/easytext.cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/easytext.gui/easytext.gui.iml" filepath="$PROJECT_DIR$/src/easytext.gui/easytext.gui.iml" />
+    </modules>
+  </component>
+</project>
